@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: partes/portada.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+Database file #1: library.bib
+Warning--entry type for "qimaProcedimientosInspeccin" isn't style-file defined
+--line 25 of file library.bib
+Warning--entry type for "TextileLearner" isn't style-file defined
+--line 135 of file library.bib
+Repeated entry---line 166 of file library.bib
+ : @article{Rocha2023
+ :                   ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "CN218147467U" isn't style-file defined
+--line 178 of file library.bib
+Warning--entry type for "LaCamara2022" isn't style-file defined
+--line 228 of file library.bib
+Warning--empty year in oshimaEfficientHandheld
+Warning--empty year in oshimaOSHIMAGarment
+You've used 19 entries,
+            2773 wiz_defined-function locations,
+            743 strings with 9762 characters,
+and the built_in function-call counts, 7777 in all, are:
+= -- 710
+> -- 404
+< -- 15
++ -- 143
+- -- 123
+* -- 567
+:= -- 1208
+add.period$ -- 86
+call.type$ -- 19
+change.case$ -- 98
+chr.to.int$ -- 18
+cite$ -- 40
+duplicate$ -- 348
+empty$ -- 669
+format.name$ -- 146
+if$ -- 1650
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 7
+newline$ -- 129
+num.names$ -- 76
+pop$ -- 234
+preamble$ -- 1
+purify$ -- 79
+quote$ -- 0
+skip$ -- 268
+stack$ -- 0
+substring$ -- 117
+swap$ -- 46
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 209
+warning$ -- 2
+while$ -- 63
+width$ -- 0
+write$ -- 297
+(There was 1 error message)

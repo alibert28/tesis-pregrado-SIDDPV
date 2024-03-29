@@ -1,0 +1,118 @@
+\documentclass[a4paper,oneside]{book}
+%~~~~~~~~~ Document setup
+\usepackage[spanish, mexico]{babel} % Formato en español
+\usepackage[utf8]{inputenc} % Standard encoding
+\usepackage{indentfirst} % Indents the first paragraph
+\usepackage{amsmath} % Maths type package
+\usepackage{bm} % Bold font maths
+\usepackage{graphicx} % Advanced graphics package
+\usepackage[export]{adjustbox} 
+\usepackage{pdflscape} % Make pages landscape
+\usepackage{fancyhdr} % Fancy headers
+\usepackage[square,numbers]{natbib} % Bibliography los númeroes entre []
+\usepackage{flafter} % Reference any 'float'
+\usepackage[framemethod=tikz]{mdframed} % Box off stuff
+\usepackage{wrapfig} % Text flowing around figures
+\usepackage{lipsum} % Generates meaningless text
+\usepackage{subfigure}
+\usepackage{comment}
+
+\usepackage{tabularx} % Para tablas que se ajustan al ancho de la página
+\usepackage{booktabs} % Para un mejor formato de las líneas de la tabla
+\usepackage{bigstrut}
+\usepackage{colortbl}
+
+% PARA TABLAS
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{booktabs}
+
+\usepackage{scalerel}[2016/12/29]
+
+\pdfminorversion=7
+
+% Define un nuevo tipo de columna "C" que centra el contenido y tiene un ancho fijo
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+
+
+% PARA COLOCARLA LA PALABRA CAPÍTULO A CADA \chapter
+\usepackage{titletoc}%
+\titlecontents{chapter}% <section-type>
+  [0pt]% <left>
+  {\bfseries}% <above-code>
+  {\chaptername\ \thecontentslabel:\quad}% <numbered-entry-format>
+  {}% <numberless-entry-format>
+  {\hfill\contentspage}% <filler-page-format>
+
+% IMPORTACIÓN DEL TEMPLATE
+\input{template}
+
+% INFORMACIÓN DEL DOCUMENTO
+% \def\documenttitle {LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. SED VARIUS}
+
+\def\documenttitle {DISEÑO DE UN SISTEMA INTEGRADO PARA EL CONTROL DE CALIDAD DE PRENDAS DE VESTIR}
+
+% \def\documentsubtitle {Plan de Tesis para optar el Título de Ingeniero Mecatrónico}
+
+\def\documentsubtitle {1MTR01 Trabajo de Fin de Carrera 1}
+\def\documentauthor {Alibert Luna Palomino}
+\def\myadvisor{José Mauricio Díaz Jurado}
+\def\mycoadvisor{-}
+\def\universityname {PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ}
+\def\universityfaculty {FACULTAD DE CIENCIAS E INGENIERÍA}
+\def\universityimage {img/logo_PUCP_antiguo.pdf}
+\def\universitylocation{Lima}
+\def\documentdate {\today}
+
+
+% Definición del nuevo comando
+% #1 es el parámetro que representa la ruta de la imagen
+\newcommand{\IMM}[3]{
+	\adjustbox{margin=#3}{\includegraphics[width=#1\textwidth]{#2}}
+}
+
+% Comando para escalar objetos
+\newcommand{\B}[2]{\scaleobj{#2}{#1}}
+
+\def\anchoFP{8em}
+\def\OpR{$\color{red}\B{\blacklozenge}{1.35}$}
+\def\OpA{$\color{blue}\B{\blacklozenge}{1.35}$}
+\def\OpV{$\color[HTML]{4CD514}{\B{\blacklozenge}{1.35}}$}
+\def\OpN{$\color{orange}\B{\blacklozenge}{1.35}$}
+
+% ---------- INICIO DE PÁGINAS ----------
+\pagestyle{empty} % Quitar footers y headers
+\begin{document}
+
+% PORTADA
+\include{partes/portada}
+
+% RESUMEN
+\input{partes/abstract}
+\clearpage
+
+% AGRADECIMIENTOS
+% \input{partes/acknowledgments}
+
+% ÍNDICE
+\tableofcontents
+
+% LISTA DE FIGURAS
+%\renewcommand\listfigurename{\centering Índice de Figuras}
+\listoffigures
+\clearpage
+
+%LISTA DE TABLAS
+%\renewcommand\listtablename{\centering Índice de Tablas}
+\listoftables
+\clearpage
+
+%CONTENIDO
+\input{contenido}
+\pagestyle{empty}
+\pagenumbering{gobble}
+\pagestyle{plain}
+\pagenumbering{arabic}
+
+\end{document}
