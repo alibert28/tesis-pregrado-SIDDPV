@@ -1,9 +1,25 @@
-\begin{thebibliography}{19}
+\begin{thebibliography}{21}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[VDI(2019)]{VDI2221_2019}
+Entwicklung technischer produkte und systeme - modell der produktentwicklung.
+\newblock Technical Report Blatt 1, VDI-Gesellschaft Produkt- und
+  Prozessgestaltung, 11 2019.
+\newblock URL
+  \url{https://www.vdi.de/en/home/vdi-standards/details/vdi-2221-blatt-1-design-of-technical-products-and-systems-model-of-product-design}.
+\newblock Verfügbar in Deutsch und Englisch.
+
+\bibitem[VDI(2021)]{VDIVDE2206_2021}
+Entwicklung mechatronischer und cyber-physischer systeme.
+\newblock Technical report, VDI/VDE-Gesellschaft Mess- und
+  Automatisierungstechnik, 11 2021.
+\newblock URL
+  \url{https://www.vdi.de/en/home/vdi-standards/details/vdivde-2206-development-of-mechatronic-and-cyber-physical-systems}.
+\newblock Verfügbar in Deutsch und Englisch.
 
 \bibitem[Agarwal(2020)]{us20200178632a1}
 Dhruv Agarwal.
@@ -11,18 +27,6 @@ Dhruv Agarwal.
   measurement of apparel, 06 2020.
 \newblock URL \url{https://patents.google.com/patent/US20200178632A1/en}.
 \newblock Número de Patente: US20200178632A1.
-
-\bibitem[Aparicio~Pico et~al.(2022)Aparicio~Pico, Devia~Lozano, and
-  Amaya~Marroquin]{AparicioPico2022}
-Lilia~Edith Aparicio~Pico, Paola Devia~Lozano, and Oscar~Julian
-  Amaya~Marroquin.
-\newblock Aplicación de deep learning para la identificación de defectos
-  superficiales utilizados en control de calidad de manufactura y producción
-  industrial: Una revisión de la literatura.
-\newblock \emph{Ingeniería}, 28\penalty0 (1):\penalty0 e18934, November 2022.
-\newblock ISSN 0121-750X.
-\newblock \doi{10.14483/23448393.18934}.
-\newblock URL \url{http://dx.doi.org/10.14483/23448393.18934}.
 
 \bibitem[Bonilla~Pastor(2015)]{BonillaPastor2015}
 Elsie Bonilla~Pastor.
@@ -153,5 +157,16 @@ Zander~MACHARIS Tommy~VERMINCK.
 \newblock Patente, Mes de publicación Año de publicación.
 \newblock URL \url{https://patents.google.com/patent/EP4095520A1/en}.
 \newblock Número de patente: EP4095520A1.
+
+\bibitem[{VDI-Gesellschaft Produkt- und Prozessgestaltung}(Various
+  years)]{VDI2225_series}
+{VDI-Gesellschaft Produkt- und Prozessgestaltung}.
+\newblock Vdi 2225 series - design engineering methodics: Engineering design at
+  optimum cost.
+\newblock Verband Deutscher Ingenieure, Various years.
+\newblock URL \url{https://www.vdi.de/en/home/vdi-standards}.
+\newblock The series includes multiple parts focusing on simplified calculation
+  of costs, tables for engineering design at optimum cost, and valuation of
+  costs, available in German.
 
 \end{thebibliography}

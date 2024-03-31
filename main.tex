@@ -28,13 +28,13 @@
 \usepackage{multirow}
 \usepackage{booktabs}
 
-\usepackage{scalerel}[2016/12/29]
+\usepackage{scalerel}
 
 \pdfminorversion=7
 
 % Define un nuevo tipo de columna "C" que centra el contenido y tiene un ancho fijo
 \newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
-
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
 
 % PARA COLOCARLA LA PALABRA CAPÍTULO A CADA \chapter
 \usepackage{titletoc}%
@@ -75,6 +75,7 @@
 % Comando para escalar objetos
 \newcommand{\B}[2]{\scaleobj{#2}{#1}}
 
+\def\anchoFPT{10em}
 \def\anchoFP{8em}
 \def\OpR{$\color{red}\B{\blacklozenge}{1.35}$}
 \def\OpA{$\color{blue}\B{\blacklozenge}{1.35}$}
