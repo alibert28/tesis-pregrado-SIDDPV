@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.10.24)  2 APR 2024 20:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.10.24)  4 APR 2024 16:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1081,7 +1081,7 @@ LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8
  (C:\Users\ALIBERT\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(main.aux (partes/portada.aux)
+(main.aux (Capítulos/portada.aux)
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
@@ -1127,10 +1127,10 @@ Package hyperref Info: Link coloring ON on input line 87.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-\openout2 = `partes/portada.aux'.
+\openout2 = `Capítulos/portada.aux'.
 
- (partes/portada.tex
-<img/logo_PUCP_antiguo.pdf, id=126, 170.6386pt x 170.59312pt>
+ (Capítulos/portada.tex
+<img/logo_PUCP_antiguo.pdf, id=122, 170.6386pt x 170.59312pt>
 File: img/logo_PUCP_antiguo.pdf Graphic file (type pdf)
 <use img/logo_PUCP_antiguo.pdf>
 Package pdftex.def Info: img/logo_PUCP_antiguo.pdf  used on input line 14.
@@ -1142,7 +1142,7 @@ Package pdftex.def Info: img/logo_PUCP_antiguo.pdf  used on input line 14.
 
 {C:/Users/ALIBERT/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/logo
 _PUCP_antiguo.pdf>])
-(partes/abstract.tex) (main.toc
+(Capítulos/abstract.tex) (main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 3.
@@ -1192,783 +1192,746 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 
-] (contenido.tex
+]
+(Capítulos/introduction.tex
 Cap\'{\i }tulo 1.
-<img/exportaciones.jpg, id=278, 838.13126pt x 377.41pt>
+<img/exportaciones.jpg, id=272, 838.13126pt x 377.41pt>
 File: img/exportaciones.jpg Graphic file (type jpg)
 <use img/exportaciones.jpg>
-Package pdftex.def Info: img/exportaciones.jpg  used on input line 17.
+Package pdftex.def Info: img/exportaciones.jpg  used on input line 12.
 (pdftex.def)             Requested size: 364.70882pt x 164.22385pt.
-[4
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 
+      [1
 
 
 
  <./img/exportaciones.jpg>]
-<img/insp_manual.jpg, id=291, 1003.75pt x 669.50125pt>
+<img/insp_manual.jpg, id=284, 1003.75pt x 669.50125pt>
 File: img/insp_manual.jpg Graphic file (type jpg)
 <use img/insp_manual.jpg>
-Package pdftex.def Info: img/insp_manual.jpg  used on input line 31.
+Package pdftex.def Info: img/insp_manual.jpg  used on input line 26.
 (pdftex.def)             Requested size: 296.322pt x 197.64418pt.
 
-Underfull \hbox (badness 6157) in paragraph at lines 49--50
+Underfull \hbox (badness 6157) in paragraph at lines 44--45
 []|\OT1/ptm/m/n/11 Light; Noi-se; Tem-pe-ra-tu-re; Work ti-me;
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 51--52
+Underfull \hbox (badness 1448) in paragraph at lines 46--47
 []|\OT1/ptm/m/n/11 Team com-mu-ni-ca-tion; Pres-su-re; Iso-la-tion;
  []
 
-[5 <./img/insp_manual.jpg>] [6] [7] [8] [9]
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.51 
+      [2 <./img/insp_manual.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.87 \section
+             {Propuesta de Solución} [3] [4]) (Capítulos/state_of_art.tex
+[5] [6]
 Cap\'{\i }tulo 2.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 160.
+(hyperref)                than one, level fixed on input line 7.
 
-<img/luz_sistema.png, id=348, 331.2375pt x 97.3236pt>
+<img/luz_sistema.png, id=338, 331.2375pt x 97.3236pt>
 File: img/luz_sistema.png Graphic file (type png)
 <use img/luz_sistema.png>
-Package pdftex.def Info: img/luz_sistema.png  used on input line 170.
+Package pdftex.def Info: img/luz_sistema.png  used on input line 17.
 (pdftex.def)             Requested size: 364.70882pt x 107.16318pt.
-[10
+[7
 
 
  <./img/luz_sistema.png>]
-<img/example_YOLO.pdf, id=359, 476.4406pt x 160.81792pt>
+<img/example_YOLO.pdf, id=349, 476.4406pt x 160.81792pt>
 File: img/example_YOLO.pdf Graphic file (type pdf)
 <use img/example_YOLO.pdf>
-Package pdftex.def Info: img/example_YOLO.pdf  used on input line 183.
+Package pdftex.def Info: img/example_YOLO.pdf  used on input line 30.
 (pdftex.def)             Requested size: 410.29308pt x 138.48964pt.
- [11 <./img/example_YOLO.pdf>]
-<img/Automatic_Measurement.png, id=425, 162.6075pt x 105.39375pt>
+ [8 <./img/example_YOLO.pdf>]
+<img/Automatic_Measurement.png, id=415, 162.6075pt x 105.39375pt>
 File: img/Automatic_Measurement.png Graphic file (type png)
 <use img/Automatic_Measurement.png>
-Package pdftex.def Info: img/Automatic_Measurement.png  used on input line 194.
-
+Package pdftex.def Info: img/Automatic_Measurement.png  used on input line 41.
 (pdftex.def)             Requested size: 273.53336pt x 177.3031pt.
-<img/oshima_on_30.png, id=431, 1405.25pt x 1405.25pt>
+<img/oshima_on_30.png, id=421, 1405.25pt x 1405.25pt>
 File: img/oshima_on_30.png Graphic file (type png)
 <use img/oshima_on_30.png>
-Package pdftex.def Info: img/oshima_on_30.png  used on input line 207.
+Package pdftex.def Info: img/oshima_on_30.png  used on input line 54.
 (pdftex.def)             Requested size: 182.35092pt x 182.34583pt.
- [12 <./img/Automatic_Measurement.png>]
-<img/oshima_conveyor.png, id=443, 1405.25pt x 1405.25pt>
+ [9 <./img/Automatic_Measurement.png>]
+<img/oshima_conveyor.png, id=433, 1405.25pt x 1405.25pt>
 File: img/oshima_conveyor.png Graphic file (type png)
 <use img/oshima_conveyor.png>
-Package pdftex.def Info: img/oshima_conveyor.png  used on input line 236.
+Package pdftex.def Info: img/oshima_conveyor.png  used on input line 83.
 (pdftex.def)             Requested size: 227.94214pt x 227.9323pt.
- [13 <./img/oshima_on_30.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
+ [10 <./img/oshima_on_30.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
 []|\OT1/ptm/m/n/11 Effective de-tec-ting Height
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
 []|\OT1/ptm/m/n/11 Packaging vo-lu-me LxWxH
  []
 
-<img/inspection_machine.png, id=454, 749.80125pt x 421.575pt>
+<img/inspection_machine.png, id=444, 749.80125pt x 421.575pt>
 File: img/inspection_machine.png Graphic file (type png)
 <use img/inspection_machine.png>
-Package pdftex.def Info: img/inspection_machine.png  used on input line 286.
+Package pdftex.def Info: img/inspection_machine.png  used on input line 133.
 (pdftex.def)             Requested size: 319.1176pt x 179.42752pt.
-[14 <./img/oshima_conveyor.png>]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
-00.
+[11 <./img/oshima_conveyor.png>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+47.
 
 (C:\Users\ALIBERT\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<img/US20200178632A1-20200611-D00005.png, id=465, 939.51pt x 1430.946pt>
+<img/US20200178632A1-20200611-D00005.png, id=455, 939.51pt x 1430.946pt>
 File: img/US20200178632A1-20200611-D00005.png Graphic file (type png)
 <use img/US20200178632A1-20200611-D00005.png>
 Package pdftex.def Info: img/US20200178632A1-20200611-D00005.png  used on input
- line 314.
+ line 161.
 (pdftex.def)             Requested size: 136.76668pt x 208.30064pt.
- [15 <./img/inspection_machine.png>]
-<img/US5530652-drawings-page-7.png, id=473, 423.0204pt x 597.432pt>
+ [12 <./img/inspection_machine.png>]
+<img/US5530652-drawings-page-7.png, id=463, 423.0204pt x 597.432pt>
 File: img/US5530652-drawings-page-7.png Graphic file (type png)
 <use img/US5530652-drawings-page-7.png>
 Package pdftex.def Info: img/US5530652-drawings-page-7.png  used on input line 
-331.
+178.
 (pdftex.def)             Requested size: 136.76668pt x 193.15121pt.
- [16 <./img/US20200178632A1-20200611-D00005.png>]
-<img/US5530652-drawings-page-5.png, id=482, 417.4797pt x 399.1713pt>
+ [13 <./img/US20200178632A1-20200611-D00005.png>]
+<img/US5530652-drawings-page-5.png, id=472, 417.4797pt x 399.1713pt>
 File: img/US5530652-drawings-page-5.png Graphic file (type png)
 <use img/US5530652-drawings-page-5.png>
 Package pdftex.def Info: img/US5530652-drawings-page-5.png  used on input line 
-338.
+185.
 (pdftex.def)             Requested size: 182.35092pt x 174.35683pt.
 
-[17 <./img/US5530652-drawings-page-7.png> <./img/US5530652-drawings-page-5.png>
+[14 <./img/US5530652-drawings-page-7.png> <./img/US5530652-drawings-page-5.png>
 ]
-<img/imgf0001.png, id=494, 881.694pt x 1079.232pt>
+<img/imgf0001.png, id=484, 881.694pt x 1079.232pt>
 File: img/imgf0001.png Graphic file (type png)
 <use img/imgf0001.png>
-Package pdftex.def Info: img/imgf0001.png  used on input line 351.
+Package pdftex.def Info: img/imgf0001.png  used on input line 198.
 (pdftex.def)             Requested size: 182.35092pt x 223.20364pt.
-<img/221009135809.png, id=496, 430.60875pt x 321.2pt>
+<img/221009135809.png, id=486, 430.60875pt x 321.2pt>
 File: img/221009135809.png Graphic file (type png)
 <use img/221009135809.png>
-Package pdftex.def Info: img/221009135809.png  used on input line 366.
+Package pdftex.def Info: img/221009135809.png  used on input line 213.
 (pdftex.def)             Requested size: 273.53336pt x 204.03815pt.
- [18 <./img/imgf0001.png>] [19 <./img/221009135809.png>]
+) [15 <./img/imgf0001.png>] (Capítulos/conceptual_design.tex [16 <./img/221009
+135809.png>]
 Cap\'{\i }tulo 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 []|\OT1/ptm/m/n/11 Fecha:
  []
 
 
-Overfull \hbox (14.81102pt too wide) in paragraph at lines 395--395
+Overfull \hbox (14.81102pt too wide) in paragraph at lines 30--30
 []|$[]$| 
  []
 
 
-Overfull \hbox (6.61568pt too wide) in alignment at lines 385--397
+Overfull \hbox (6.61568pt too wide) in alignment at lines 20--32
  [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--399
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 []|\OT1/ptm/b/n/11 Deseo o
  []
 
 
-Overfull \hbox (6.61568pt too wide) in alignment at lines 397--401
+Overfull \hbox (6.61568pt too wide) in alignment at lines 32--36
  [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 430--430
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
 \OT1/ptm/m/n/11 - In-di-ca-do-res lu-mi-no-sos de ali-men-ta-
  []
 
 
-Overfull \hbox (6.61568pt too wide) in alignment at lines 401--490
+Overfull \hbox (6.61568pt too wide) in alignment at lines 36--125
  [] [] [] [] 
  []
 
-[20
+[17
 
 
-] [21] [22]
-<img/BLACK_BOX.drawio.pdf, id=530, 557.20169pt x 372.43138pt>
+] [18] [19]
+<img/BLACK_BOX.drawio.pdf, id=520, 557.20169pt x 372.43138pt>
 File: img/BLACK_BOX.drawio.pdf Graphic file (type pdf)
 <use img/BLACK_BOX.drawio.pdf>
-Package pdftex.def Info: img/BLACK_BOX.drawio.pdf  used on input line 504.
+Package pdftex.def Info: img/BLACK_BOX.drawio.pdf  used on input line 139.
 (pdftex.def)             Requested size: 455.8843pt x 304.71376pt.
- [23]
-<img/ESTRUCTURA_DE_FUNCIONES.drawio.pdf, id=538, 1149.33382pt x 754.73969pt>
+ [20]
+<img/ESTRUCTURA_DE_FUNCIONES.drawio.pdf, id=528, 1149.33382pt x 754.73969pt>
 File: img/ESTRUCTURA_DE_FUNCIONES.drawio.pdf Graphic file (type pdf)
 <use img/ESTRUCTURA_DE_FUNCIONES.drawio.pdf>
 Package pdftex.def Info: img/ESTRUCTURA_DE_FUNCIONES.drawio.pdf  used on input 
-line 517.
+line 152.
 (pdftex.def)             Requested size: 689.4103pt x 452.72063pt.
-<img/EF_DM.pdf, id=540, 985.14331pt x 134.82872pt>
+<img/EF_DM.pdf, id=530, 985.14331pt x 134.82872pt>
 File: img/EF_DM.pdf Graphic file (type pdf)
 <use img/EF_DM.pdf>
-Package pdftex.def Info: img/EF_DM.pdf  used on input line 529.
+Package pdftex.def Info: img/EF_DM.pdf  used on input line 164.
 (pdftex.def)             Requested size: 455.8843pt x 62.39226pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24 <./img/BLACK_BOX.drawio.pdf>] [25 <./img/ESTRUCTURA_DE_FUNCIONES.drawio.pdf
+[21 <./img/BLACK_BOX.drawio.pdf>] [22 <./img/ESTRUCTURA_DE_FUNCIONES.drawio.pdf
 >]
-<img/EF_DIn.pdf, id=584, 931.66832pt x 174.4406pt>
+<img/EF_DIn.pdf, id=574, 931.66832pt x 174.4406pt>
 File: img/EF_DIn.pdf Graphic file (type pdf)
 <use img/EF_DIn.pdf>
-Package pdftex.def Info: img/EF_DIn.pdf  used on input line 540.
+Package pdftex.def Info: img/EF_DIn.pdf  used on input line 175.
 (pdftex.def)             Requested size: 455.8843pt x 85.35686pt.
-<img/EF_DC.pdf, id=586, 236.38312pt x 103.88812pt>
+<img/EF_DC.pdf, id=576, 236.38312pt x 103.88812pt>
 File: img/EF_DC.pdf Graphic file (type pdf)
 <use img/EF_DC.pdf>
-Package pdftex.def Info: img/EF_DC.pdf  used on input line 551.
+Package pdftex.def Info: img/EF_DC.pdf  used on input line 186.
 (pdftex.def)             Requested size: 182.35092pt x 80.1431pt.
- [26 <./img/EF_DM.pdf> <./img/EF_DIn.pdf> <./img/EF_DC.pdf>]
-<img/EF_DEE.pdf, id=639, 456.60115pt x 249.9736pt>
+ [23 <./img/EF_DM.pdf> <./img/EF_DIn.pdf> <./img/EF_DC.pdf>]
+<img/EF_DEE.pdf, id=629, 456.60115pt x 249.9736pt>
 File: img/EF_DEE.pdf Graphic file (type pdf)
 <use img/EF_DEE.pdf>
-Package pdftex.def Info: img/EF_DEE.pdf  used on input line 562.
+Package pdftex.def Info: img/EF_DEE.pdf  used on input line 197.
 (pdftex.def)             Requested size: 364.70882pt x 199.66637pt.
-<img/EF_DS.pdf, id=641, 423.59726pt x 135.58192pt>
+<img/EF_DS.pdf, id=631, 423.59726pt x 135.58192pt>
 File: img/EF_DS.pdf Graphic file (type pdf)
 <use img/EF_DS.pdf>
-Package pdftex.def Info: img/EF_DS.pdf  used on input line 573.
+Package pdftex.def Info: img/EF_DS.pdf  used on input line 208.
 (pdftex.def)             Requested size: 319.1176pt x 102.14133pt.
- [27 <./img/EF_DEE.pdf> <./img/EF_DS.pdf>]
-<img/EF_DI.pdf, id=684, 570.10985pt x 277.37428pt>
+ [24 <./img/EF_DEE.pdf> <./img/EF_DS.pdf>]
+<img/EF_DI.pdf, id=674, 570.10985pt x 277.37428pt>
 File: img/EF_DI.pdf Graphic file (type pdf)
 <use img/EF_DI.pdf>
-Package pdftex.def Info: img/EF_DI.pdf  used on input line 584.
+Package pdftex.def Info: img/EF_DI.pdf  used on input line 219.
 (pdftex.def)             Requested size: 455.8843pt x 221.80237pt.
 
-Overfull \vbox (17.16pt too high) detected at line 699
+Overfull \vbox (17.16pt too high) detected at line 334
  []
 
-<img/botonera1.jpg, id=694, 421.575pt x 611.28375pt>
+<img/botonera1.jpg, id=684, 421.575pt x 611.28375pt>
 File: img/botonera1.jpg Graphic file (type jpg)
 <use img/botonera1.jpg>
-Package pdftex.def Info: img/botonera1.jpg  used on input line 699.
+Package pdftex.def Info: img/botonera1.jpg  used on input line 334.
 (pdftex.def)             Requested size: 36.47157pt x 52.87718pt.
-<img/boton_enc_apa_GUI.jpg, id=695, 274.626pt x 282.45525pt>
+<img/boton_enc_apa_GUI.jpg, id=685, 274.626pt x 282.45525pt>
 File: img/boton_enc_apa_GUI.jpg Graphic file (type jpg)
 <use img/boton_enc_apa_GUI.jpg>
-Package pdftex.def Info: img/boton_enc_apa_GUI.jpg  used on input line 699.
+Package pdftex.def Info: img/boton_enc_apa_GUI.jpg  used on input line 334.
 (pdftex.def)             Requested size: 45.5912pt x 46.88754pt.
-<img/Switch_tipo_perilla.jpeg, id=696, 807.015pt x 807.015pt>
+<img/Switch_tipo_perilla.jpeg, id=686, 807.015pt x 807.015pt>
 File: img/Switch_tipo_perilla.jpeg Graphic file (type jpg)
 <use img/Switch_tipo_perilla.jpeg>
-Package pdftex.def Info: img/Switch_tipo_perilla.jpeg  used on input line 699.
+Package pdftex.def Info: img/Switch_tipo_perilla.jpeg  used on input line 334.
 (pdftex.def)             Requested size: 54.70389pt x 54.69896pt.
 
-Overfull \vbox (34.31999pt too high) detected at line 702
+Overfull \vbox (34.31999pt too high) detected at line 337
  []
 
-<img/pilotos_led.jpg, id=697, 152.9715pt x 123.46124pt>
+<img/pilotos_led.jpg, id=687, 152.9715pt x 123.46124pt>
 File: img/pilotos_led.jpg Graphic file (type jpg)
 <use img/pilotos_led.jpg>
-Package pdftex.def Info: img/pilotos_led.jpg  used on input line 702.
+Package pdftex.def Info: img/pilotos_led.jpg  used on input line 337.
 (pdftex.def)             Requested size: 59.26718pt x 47.83319pt.
 
-Overfull \hbox (4.26718pt too wide) in paragraph at lines 702--702
+Overfull \hbox (4.26718pt too wide) in paragraph at lines 337--337
  []|[]| 
  []
 
-<img/pantalla_LCD.jpg, id=698, 555.87675pt x 318.59026pt>
+<img/pantalla_LCD.jpg, id=688, 555.87675pt x 318.59026pt>
 File: img/pantalla_LCD.jpg Graphic file (type jpg)
 <use img/pantalla_LCD.jpg>
-Package pdftex.def Info: img/pantalla_LCD.jpg  used on input line 702.
+Package pdftex.def Info: img/pantalla_LCD.jpg  used on input line 337.
 (pdftex.def)             Requested size: 63.82352pt x 36.57634pt.
 
-Overfull \hbox (4.42358pt too wide) in paragraph at lines 702--702
+Overfull \hbox (4.42358pt too wide) in paragraph at lines 337--337
  []|[]| 
  []
 
-<img/GUI.jpg, id=699, 1538.74875pt x 1003.75pt>
+<img/GUI.jpg, id=689, 1538.74875pt x 1003.75pt>
 File: img/GUI.jpg Graphic file (type jpg)
 <use img/GUI.jpg>
-Package pdftex.def Info: img/GUI.jpg  used on input line 702.
+Package pdftex.def Info: img/GUI.jpg  used on input line 337.
 (pdftex.def)             Requested size: 68.37985pt x 44.6001pt.
 
-Overfull \hbox (4.57999pt too wide) in paragraph at lines 702--703
+Overfull \hbox (4.57999pt too wide) in paragraph at lines 337--338
  []|[] 
  []
 
-<img/hmi_industrial.png, id=700, 440.24475pt x 366.77025pt>
+<img/hmi_industrial.png, id=690, 440.24475pt x 366.77025pt>
 File: img/hmi_industrial.png Graphic file (type png)
 <use img/hmi_industrial.png>
-Package pdftex.def Info: img/hmi_industrial.png  used on input line 705.
+Package pdftex.def Info: img/hmi_industrial.png  used on input line 340.
 (pdftex.def)             Requested size: 59.26718pt x 49.37193pt.
-<img/Pantalla_Perilla.jpg, id=701, 375.20175pt x 190.91325pt>
+<img/Pantalla_Perilla.jpg, id=691, 375.20175pt x 190.91325pt>
 File: img/Pantalla_Perilla.jpg Graphic file (type jpg)
 <use img/Pantalla_Perilla.jpg>
-Package pdftex.def Info: img/Pantalla_Perilla.jpg  used on input line 705.
+Package pdftex.def Info: img/Pantalla_Perilla.jpg  used on input line 340.
 (pdftex.def)             Requested size: 68.37985pt x 34.79404pt.
 
-Overfull \hbox (7.65997pt too wide) in paragraph at lines 705--705
+Overfull \hbox (7.65997pt too wide) in paragraph at lines 340--340
  []|[]| 
  []
 
 File: img/GUI.jpg Graphic file (type jpg)
 <use img/GUI.jpg>
-Package pdftex.def Info: img/GUI.jpg  used on input line 705.
+Package pdftex.def Info: img/GUI.jpg  used on input line 340.
 (pdftex.def)             Requested size: 68.37985pt x 44.6001pt.
 
-Overfull \hbox (4.57999pt too wide) in paragraph at lines 705--706
+Overfull \hbox (4.57999pt too wide) in paragraph at lines 340--341
  []|[] 
  []
 
 
-Overfull \vbox (34.31999pt too high) detected at line 708
+Overfull \vbox (34.31999pt too high) detected at line 343
  []
 
-<img/termomagnético_diferencial.jpg, id=702, 752.8125pt x 752.8125pt>
+<img/termomagnético_diferencial.jpg, id=692, 752.8125pt x 752.8125pt>
 File: img/termomagnético_diferencial.jpg Graphic file (type jpg)
 <use img/termomagnético_diferencial.jpg>
 Package pdftex.def Info: img/termomagnético_diferencial.jpg  used on input lin
-e 708.
+e 343.
 (pdftex.def)             Requested size: 54.70389pt x 54.70099pt.
 
-Overfull \hbox (4.10382pt too wide) in paragraph at lines 708--708
+Overfull \hbox (4.10382pt too wide) in paragraph at lines 343--343
  []|[]| 
  []
 
-<img/Conmutador_industrial.jpeg, id=703, 115.02975pt x 115.02975pt>
+<img/Conmutador_industrial.jpeg, id=693, 115.02975pt x 115.02975pt>
 File: img/Conmutador_industrial.jpeg Graphic file (type jpg)
 <use img/Conmutador_industrial.jpeg>
-Package pdftex.def Info: img/Conmutador_industrial.jpeg  used on input line 708
+Package pdftex.def Info: img/Conmutador_industrial.jpeg  used on input line 343
 .
 (pdftex.def)             Requested size: 50.14754pt x 50.1481pt.
-<img/cable_interruptor.jpg, id=704, 681.54625pt x 670.505pt>
+<img/cable_interruptor.jpg, id=694, 681.54625pt x 670.505pt>
 File: img/cable_interruptor.jpg Graphic file (type jpg)
 <use img/cable_interruptor.jpg>
-Package pdftex.def Info: img/cable_interruptor.jpg  used on input line 708.
+Package pdftex.def Info: img/cable_interruptor.jpg  used on input line 343.
 (pdftex.def)             Requested size: 50.14754pt x 49.33421pt.
 
-Overfull \vbox (17.16pt too high) detected at line 711
+Overfull \vbox (17.16pt too high) detected at line 346
  []
 
 File: img/hmi_industrial.png Graphic file (type png)
 <use img/hmi_industrial.png>
-Package pdftex.def Info: img/hmi_industrial.png  used on input line 711.
+Package pdftex.def Info: img/hmi_industrial.png  used on input line 346.
 (pdftex.def)             Requested size: 59.26718pt x 49.37193pt.
 File: img/GUI.jpg Graphic file (type jpg)
 <use img/GUI.jpg>
-Package pdftex.def Info: img/GUI.jpg  used on input line 711.
+Package pdftex.def Info: img/GUI.jpg  used on input line 346.
 (pdftex.def)             Requested size: 68.37985pt x 44.6001pt.
 
-Overfull \hbox (4.57999pt too wide) in paragraph at lines 711--711
+Overfull \hbox (4.57999pt too wide) in paragraph at lines 346--346
  []|[]| 
  []
 
-[28 <./img/EF_DI.pdf>] [29 <./img/botonera1.jpg> <./img/boton_enc_apa_GUI.jpg> 
+[25 <./img/EF_DI.pdf>] [26 <./img/botonera1.jpg> <./img/boton_enc_apa_GUI.jpg> 
 <./img/Switch_tipo_perilla.jpeg> <./img/pilotos_led.jpg> <./img/pantalla_LCD.jp
 g> <./img/GUI.jpg> <./img/hmi_industrial.png> <./img/Pantalla_Perilla.jpg> <./i
 mg/termomagnético_diferencial.jpg> <./img/Conmutador_industrial.jpeg> <./img/c
 able_interruptor.jpg>]
-Overfull \vbox (17.16pt too high) detected at line 761
+Overfull \vbox (17.16pt too high) detected at line 396
  []
 
-<img/faja_transportadora_plana.jpg, id=734, 263.18324pt x 225.2415pt>
+<img/faja_transportadora_plana.jpg, id=724, 263.18324pt x 225.2415pt>
 File: img/faja_transportadora_plana.jpg Graphic file (type jpg)
 <use img/faja_transportadora_plana.jpg>
 Package pdftex.def Info: img/faja_transportadora_plana.jpg  used on input line 
-761.
+396.
 (pdftex.def)             Requested size: 63.82352pt x 54.62271pt.
 
-Overfull \hbox (2.22345pt too wide) in paragraph at lines 761--761
+Overfull \hbox (2.22345pt too wide) in paragraph at lines 396--396
  []|[]| 
  []
 
-<img/faja_transportadora_inclinada.jpg, id=735, 198.14024pt x 206.57175pt>
+<img/faja_transportadora_inclinada.jpg, id=725, 198.14024pt x 206.57175pt>
 File: img/faja_transportadora_inclinada.jpg Graphic file (type jpg)
 <use img/faja_transportadora_inclinada.jpg>
 Package pdftex.def Info: img/faja_transportadora_inclinada.jpg  used on input l
-ine 761.
+ine 396.
 (pdftex.def)             Requested size: 59.26718pt x 61.78917pt.
 
-Overfull \hbox (10.86725pt too wide) in paragraph at lines 761--761
+Overfull \hbox (10.86725pt too wide) in paragraph at lines 396--396
  []|[]| 
  []
 
-<img/conveyer.jpg, id=736, 401.5pt x 500.87125pt>
+<img/conveyer.jpg, id=726, 401.5pt x 500.87125pt>
 File: img/conveyer.jpg Graphic file (type jpg)
 <use img/conveyer.jpg>
-Package pdftex.def Info: img/conveyer.jpg  used on input line 761.
+Package pdftex.def Info: img/conveyer.jpg  used on input line 396.
 (pdftex.def)             Requested size: 50.14754pt x 62.55525pt.
 
-Overfull \vbox (34.31999pt too high) detected at line 764
+Overfull \vbox (34.31999pt too high) detected at line 399
  []
 
-<img/stepper_motor.jpg, id=737, 302.3295pt x 289.08pt>
+<img/stepper_motor.jpg, id=727, 302.3295pt x 289.08pt>
 File: img/stepper_motor.jpg Graphic file (type jpg)
 <use img/stepper_motor.jpg>
-Package pdftex.def Info: img/stepper_motor.jpg  used on input line 764.
+Package pdftex.def Info: img/stepper_motor.jpg  used on input line 399.
 (pdftex.def)             Requested size: 68.37985pt x 65.37984pt.
 
-Overfull \hbox (8.97992pt too wide) in paragraph at lines 764--764
+Overfull \hbox (8.97992pt too wide) in paragraph at lines 399--399
  []|[]| 
  []
 
-<img/motor_sincrono.jpg, id=738, 205.36725pt x 182.48175pt>
+<img/motor_sincrono.jpg, id=728, 205.36725pt x 182.48175pt>
 File: img/motor_sincrono.jpg Graphic file (type jpg)
 <use img/motor_sincrono.jpg>
-Package pdftex.def Info: img/motor_sincrono.jpg  used on input line 764.
+Package pdftex.def Info: img/motor_sincrono.jpg  used on input line 399.
 (pdftex.def)             Requested size: 68.37985pt x 60.75934pt.
 
-Overfull \hbox (4.57999pt too wide) in paragraph at lines 764--764
+Overfull \hbox (4.57999pt too wide) in paragraph at lines 399--399
  []|[]| 
  []
 
-<img/motor_asincrono.jpg, id=739, 504.6855pt x 484.209pt>
+<img/motor_asincrono.jpg, id=729, 504.6855pt x 484.209pt>
 File: img/motor_asincrono.jpg Graphic file (type jpg)
 <use img/motor_asincrono.jpg>
-Package pdftex.def Info: img/motor_asincrono.jpg  used on input line 764.
+Package pdftex.def Info: img/motor_asincrono.jpg  used on input line 399.
 (pdftex.def)             Requested size: 63.82352pt x 61.22787pt.
 
-Overfull \hbox (2.22345pt too wide) in paragraph at lines 764--765
+Overfull \hbox (2.22345pt too wide) in paragraph at lines 399--400
  []|[] 
  []
 
 
-Overfull \vbox (17.16pt too high) detected at line 805
+Overfull \vbox (17.16pt too high) detected at line 440
  []
 
-<img/computadora_industrial.png, id=742, 239.09325pt x 131.2905pt>
+<img/computadora_industrial.png, id=732, 239.09325pt x 131.2905pt>
 File: img/computadora_industrial.png Graphic file (type png)
 <use img/computadora_industrial.png>
-Package pdftex.def Info: img/computadora_industrial.png  used on input line 805
+Package pdftex.def Info: img/computadora_industrial.png  used on input line 440
 .
 (pdftex.def)             Requested size: 59.26718pt x 32.54407pt.
 
-Overfull \hbox (4.26718pt too wide) in paragraph at lines 805--805
+Overfull \hbox (4.26718pt too wide) in paragraph at lines 440--440
  []|[]| 
  []
 
-<img/SBC.jpg, id=743, 964.60374pt x 764.8575pt>
+<img/SBC.jpg, id=733, 964.60374pt x 764.8575pt>
 File: img/SBC.jpg Graphic file (type jpg)
 <use img/SBC.jpg>
-Package pdftex.def Info: img/SBC.jpg  used on input line 805.
+Package pdftex.def Info: img/SBC.jpg  used on input line 440.
 (pdftex.def)             Requested size: 63.82352pt x 50.60445pt.
 
-Overfull \hbox (4.42358pt too wide) in paragraph at lines 805--805
+Overfull \hbox (4.42358pt too wide) in paragraph at lines 440--440
  []|[]| 
  []
 
-<img/micro.jpg, id=744, 308.352pt x 249.93375pt>
+<img/micro.jpg, id=734, 308.352pt x 249.93375pt>
 File: img/micro.jpg Graphic file (type jpg)
 <use img/micro.jpg>
-Package pdftex.def Info: img/micro.jpg  used on input line 805.
+Package pdftex.def Info: img/micro.jpg  used on input line 440.
 (pdftex.def)             Requested size: 63.82352pt x 51.73251pt.
 
-Overfull \hbox (4.42358pt too wide) in paragraph at lines 805--806
+Overfull \hbox (4.42358pt too wide) in paragraph at lines 440--441
  []|[] 
  []
 
 
-Overfull \vbox (17.16pt too high) detected at line 808
+Overfull \vbox (17.16pt too high) detected at line 443
  []
 
-<img/memoria_sd.jpg, id=745, 564.9105pt x 487.8225pt>
+<img/memoria_sd.jpg, id=735, 564.9105pt x 487.8225pt>
 File: img/memoria_sd.jpg Graphic file (type jpg)
 <use img/memoria_sd.jpg>
-Package pdftex.def Info: img/memoria_sd.jpg  used on input line 808.
+Package pdftex.def Info: img/memoria_sd.jpg  used on input line 443.
 (pdftex.def)             Requested size: 50.14754pt x 43.2992pt.
-<img/memoria_tera.jpg, id=746, 90.85913pt x 64.6826pt>
+<img/memoria_tera.jpg, id=736, 90.85913pt x 64.6826pt>
 File: img/memoria_tera.jpg Graphic file (type jpg)
 <use img/memoria_tera.jpg>
-Package pdftex.def Info: img/memoria_tera.jpg  used on input line 808.
+Package pdftex.def Info: img/memoria_tera.jpg  used on input line 443.
 (pdftex.def)             Requested size: 54.70389pt x 38.94505pt.
-<img/memoria_ssd.jpg, id=747, 1003.75pt x 1003.75pt>
+<img/memoria_ssd.jpg, id=737, 1003.75pt x 1003.75pt>
 File: img/memoria_ssd.jpg Graphic file (type jpg)
 <use img/memoria_ssd.jpg>
-Package pdftex.def Info: img/memoria_ssd.jpg  used on input line 808.
+Package pdftex.def Info: img/memoria_ssd.jpg  used on input line 443.
 (pdftex.def)             Requested size: 54.70389pt x 54.69333pt.
-<img/opencv.png, id=748, 803.0pt x 989.6975pt>
+<img/opencv.png, id=738, 803.0pt x 989.6975pt>
 File: img/opencv.png Graphic file (type png)
 <use img/opencv.png>
-Package pdftex.def Info: img/opencv.png  used on input line 811.
+Package pdftex.def Info: img/opencv.png  used on input line 446.
 (pdftex.def)             Requested size: 45.5912pt x 56.17775pt.
-<img/matlab.png, id=749, 166.82326pt x 175.857pt>
+<img/matlab.png, id=739, 166.82326pt x 175.857pt>
 File: img/matlab.png Graphic file (type png)
 <use img/matlab.png>
-Package pdftex.def Info: img/matlab.png  used on input line 811.
+Package pdftex.def Info: img/matlab.png  used on input line 446.
 (pdftex.def)             Requested size: 50.14754pt x 52.86215pt.
-<img/code.png, id=750, 301.125pt x 270.00874pt>
+<img/code.png, id=740, 301.125pt x 270.00874pt>
 File: img/code.png Graphic file (type png)
 <use img/code.png>
-Package pdftex.def Info: img/code.png  used on input line 811.
+Package pdftex.def Info: img/code.png  used on input line 446.
 (pdftex.def)             Requested size: 54.70389pt x 49.04855pt.
-<img/yolov8.jpg, id=751, 248.72925pt x 89.133pt>
+<img/yolov8.jpg, id=741, 248.72925pt x 89.133pt>
 File: img/yolov8.jpg Graphic file (type jpg)
 <use img/yolov8.jpg>
-Package pdftex.def Info: img/yolov8.jpg  used on input line 814.
+Package pdftex.def Info: img/yolov8.jpg  used on input line 449.
 (pdftex.def)             Requested size: 59.26718pt x 21.23866pt.
-<img/fasterRCNN.png, id=752, 323.2075pt x 338.26375pt>
+<img/fasterRCNN.png, id=742, 323.2075pt x 338.26375pt>
 File: img/fasterRCNN.png Graphic file (type png)
 <use img/fasterRCNN.png>
-Package pdftex.def Info: img/fasterRCNN.png  used on input line 814.
+Package pdftex.def Info: img/fasterRCNN.png  used on input line 449.
 (pdftex.def)             Requested size: 59.26718pt x 62.02553pt.
-<img/analisis_clasico.png, id=753, 481.8pt x 389.455pt>
+<img/analisis_clasico.png, id=743, 481.8pt x 389.455pt>
 File: img/analisis_clasico.png Graphic file (type png)
 <use img/analisis_clasico.png>
-Package pdftex.def Info: img/analisis_clasico.png  used on input line 814.
+Package pdftex.def Info: img/analisis_clasico.png  used on input line 449.
 (pdftex.def)             Requested size: 54.70389pt x 44.21886pt.
-[30 <./img/faja_transportadora_plana.jpg> <./img/faja_transportadora_inclinada.
+[27 <./img/faja_transportadora_plana.jpg> <./img/faja_transportadora_inclinada.
 jpg> <./img/conveyer.jpg> <./img/stepper_motor.jpg> <./img/motor_sincrono.jpg> 
 <./img/motor_asincrono.jpg>]
-Overfull \vbox (17.16pt too high) detected at line 862
+Overfull \vbox (17.16pt too high) detected at line 497
  []
 
-<img/ESP32.jpg, id=764, 404.10976pt x 325.81725pt>
+<img/ESP32.jpg, id=754, 404.10976pt x 325.81725pt>
 File: img/ESP32.jpg Graphic file (type jpg)
 <use img/ESP32.jpg>
-Package pdftex.def Info: img/ESP32.jpg  used on input line 862.
+Package pdftex.def Info: img/ESP32.jpg  used on input line 497.
 (pdftex.def)             Requested size: 68.37985pt x 55.12967pt.
 
-Overfull \hbox (4.1399pt too wide) in paragraph at lines 862--862
+Overfull \hbox (4.1399pt too wide) in paragraph at lines 497--497
  []|[]| 
  []
 
-<img/raspberry.jpg, id=765, 4202.70125pt x 2473.24pt>
+<img/raspberry.jpg, id=755, 4202.70125pt x 2473.24pt>
 File: img/raspberry.jpg Graphic file (type jpg)
 <use img/raspberry.jpg>
-Package pdftex.def Info: img/raspberry.jpg  used on input line 862.
+Package pdftex.def Info: img/raspberry.jpg  used on input line 497.
 (pdftex.def)             Requested size: 63.82352pt x 37.54985pt.
-<img/plc.jpg, id=766, 1081.641pt x 1257.498pt>
+<img/plc.jpg, id=756, 1081.641pt x 1257.498pt>
 File: img/plc.jpg Graphic file (type jpg)
 <use img/plc.jpg>
-Package pdftex.def Info: img/plc.jpg  used on input line 862.
+Package pdftex.def Info: img/plc.jpg  used on input line 497.
 (pdftex.def)             Requested size: 63.82352pt x 74.1994pt.
-<img/PID_DISCRETO.png, id=767, 1204.5pt x 803.0pt>
+<img/PID_DISCRETO.png, id=757, 1204.5pt x 803.0pt>
 File: img/PID_DISCRETO.png Graphic file (type png)
 <use img/PID_DISCRETO.png>
-Package pdftex.def Info: img/PID_DISCRETO.png  used on input line 865.
+Package pdftex.def Info: img/PID_DISCRETO.png  used on input line 500.
 (pdftex.def)             Requested size: 72.94315pt x 48.61902pt.
 
-Overfull \hbox (9.14328pt too wide) in paragraph at lines 865--865
+Overfull \hbox (9.14328pt too wide) in paragraph at lines 500--500
  []|[]| 
  []
 
-<img/onoff_control.png, id=768, 740.7675pt x 463.7325pt>
+<img/onoff_control.png, id=758, 740.7675pt x 463.7325pt>
 File: img/onoff_control.png Graphic file (type png)
 <use img/onoff_control.png>
-Package pdftex.def Info: img/onoff_control.png  used on input line 865.
+Package pdftex.def Info: img/onoff_control.png  used on input line 500.
 (pdftex.def)             Requested size: 72.94315pt x 45.66129pt.
 
-Overfull \hbox (9.14328pt too wide) in paragraph at lines 865--865
+Overfull \hbox (9.14328pt too wide) in paragraph at lines 500--500
  []|[]| 
  []
 
-<img/realimentacion_estados.png, id=769, 853.1875pt x 334.24875pt>
+<img/realimentacion_estados.png, id=759, 853.1875pt x 334.24875pt>
 File: img/realimentacion_estados.png Graphic file (type png)
 <use img/realimentacion_estados.png>
-Package pdftex.def Info: img/realimentacion_estados.png  used on input line 865
+Package pdftex.def Info: img/realimentacion_estados.png  used on input line 500
 .
 (pdftex.def)             Requested size: 68.37985pt x 26.78635pt.
 
-Overfull \hbox (4.1399pt too wide) in paragraph at lines 865--866
+Overfull \hbox (4.1399pt too wide) in paragraph at lines 500--501
  []|[] 
  []
 
-[31 <./img/computadora_industrial.png> <./img/SBC.jpg> <./img/micro.jpg> <./img
+[28 <./img/computadora_industrial.png> <./img/SBC.jpg> <./img/micro.jpg> <./img
 /memoria_sd.jpg> <./img/memoria_tera.jpg> <./img/memoria_ssd.jpg (PNG copy)> <.
 /img/opencv.png> <./img/matlab.png> <./img/code.png> <./img/yolov8.jpg> <./img/
 fasterRCNN.png> <./img/analisis_clasico.png (PNG copy)>]
-Overfull \vbox (17.16pt too high) detected at line 906
+Overfull \vbox (17.16pt too high) detected at line 541
  []
 
-<img/fuente_switching.jpg, id=782, 1505.625pt x 1171.37625pt>
+<img/fuente_switching.jpg, id=772, 1505.625pt x 1171.37625pt>
 File: img/fuente_switching.jpg Graphic file (type jpg)
 <use img/fuente_switching.jpg>
-Package pdftex.def Info: img/fuente_switching.jpg  used on input line 906.
+Package pdftex.def Info: img/fuente_switching.jpg  used on input line 541.
 (pdftex.def)             Requested size: 59.26718pt x 46.09636pt.
-<img/circuito_rectificador.jpg, id=783, 523.9575pt x 523.9575pt>
+<img/circuito_rectificador.jpg, id=773, 523.9575pt x 523.9575pt>
 File: img/circuito_rectificador.jpg Graphic file (type jpg)
 <use img/circuito_rectificador.jpg>
-Package pdftex.def Info: img/circuito_rectificador.jpg  used on input line 906.
+Package pdftex.def Info: img/circuito_rectificador.jpg  used on input line 541.
 
 (pdftex.def)             Requested size: 59.26718pt x 59.26646pt.
-<img/adaptador_AC_DC.jpg, id=784, 602.25pt x 602.25pt>
+<img/adaptador_AC_DC.jpg, id=774, 602.25pt x 602.25pt>
 File: img/adaptador_AC_DC.jpg Graphic file (type jpg)
 <use img/adaptador_AC_DC.jpg>
-Package pdftex.def Info: img/adaptador_AC_DC.jpg  used on input line 906.
+Package pdftex.def Info: img/adaptador_AC_DC.jpg  used on input line 541.
 (pdftex.def)             Requested size: 59.26718pt x 59.26361pt.
 
-Overfull \vbox (17.16pt too high) detected at line 909
+Overfull \vbox (17.16pt too high) detected at line 544
  []
 
-<img/boton_parada_emergencia.jpg, id=785, 156.3441pt x 116.5956pt>
+<img/boton_parada_emergencia.jpg, id=775, 156.3441pt x 116.5956pt>
 File: img/boton_parada_emergencia.jpg Graphic file (type jpg)
 <use img/boton_parada_emergencia.jpg>
-Package pdftex.def Info: img/boton_parada_emergencia.jpg  used on input line 90
-9.
+Package pdftex.def Info: img/boton_parada_emergencia.jpg  used on input line 54
+4.
 (pdftex.def)             Requested size: 59.26718pt x 44.20003pt.
 
-Overfull \vbox (34.31999pt too high) detected at line 912
+Overfull \vbox (34.31999pt too high) detected at line 547
  []
 
-<img/cables_terminal_crimpado.jpg, id=786, 314.3745pt x 300.52275pt>
+<img/cables_terminal_crimpado.jpg, id=776, 314.3745pt x 300.52275pt>
 File: img/cables_terminal_crimpado.jpg Graphic file (type jpg)
 <use img/cables_terminal_crimpado.jpg>
-Package pdftex.def Info: img/cables_terminal_crimpado.jpg  used on input line 9
-12.
+Package pdftex.def Info: img/cables_terminal_crimpado.jpg  used on input line 5
+47.
 (pdftex.def)             Requested size: 59.26718pt x 56.6551pt.
-<img/cable_motor.jpg, id=787, 420.3705pt x 395.076pt>
+<img/cable_motor.jpg, id=777, 420.3705pt x 395.076pt>
 File: img/cable_motor.jpg Graphic file (type jpg)
 <use img/cable_motor.jpg>
-Package pdftex.def Info: img/cable_motor.jpg  used on input line 912.
+Package pdftex.def Info: img/cable_motor.jpg  used on input line 547.
 (pdftex.def)             Requested size: 59.26718pt x 55.69608pt.
 
-Overfull \vbox (34.31999pt too high) detected at line 915
+Overfull \vbox (34.31999pt too high) detected at line 550
  []
 
-<img/cable_usb_micro.jpg, id=788, 1505.625pt x 1186.4325pt>
+<img/cable_usb_micro.jpg, id=778, 1505.625pt x 1186.4325pt>
 File: img/cable_usb_micro.jpg Graphic file (type jpg)
 <use img/cable_usb_micro.jpg>
-Package pdftex.def Info: img/cable_usb_micro.jpg  used on input line 915.
+Package pdftex.def Info: img/cable_usb_micro.jpg  used on input line 550.
 (pdftex.def)             Requested size: 50.14754pt x 39.50179pt.
-<img/cable_usb_usbB.jpg, id=789, 279.444pt x 223.43475pt>
+<img/cable_usb_usbB.jpg, id=779, 279.444pt x 223.43475pt>
 File: img/cable_usb_usbB.jpg Graphic file (type jpg)
 <use img/cable_usb_usbB.jpg>
-Package pdftex.def Info: img/cable_usb_usbB.jpg  used on input line 915.
+Package pdftex.def Info: img/cable_usb_usbB.jpg  used on input line 550.
 (pdftex.def)             Requested size: 54.70389pt x 43.73836pt.
-[32 <./img/ESP32.jpg> <./img/raspberry.jpg> <./img/plc.jpg> <./img/PID_DISCRETO
+[29 <./img/ESP32.jpg> <./img/raspberry.jpg> <./img/plc.jpg> <./img/PID_DISCRETO
 .png> <./img/onoff_control.png> <./img/realimentacion_estados.png> <./img/fuent
 e_switching.jpg> <./img/circuito_rectificador.jpg> <./img/adaptador_AC_DC.jpg (
 PNG copy)> <./img/boton_parada_emergencia.jpg>]
-<img/camara_USB.jpg, id=799, 1490.56876pt x 1505.625pt>
+<img/camara_USB.jpg, id=789, 1490.56876pt x 1505.625pt>
 File: img/camara_USB.jpg Graphic file (type jpg)
 <use img/camara_USB.jpg>
-Package pdftex.def Info: img/camara_USB.jpg  used on input line 962.
+Package pdftex.def Info: img/camara_USB.jpg  used on input line 597.
 (pdftex.def)             Requested size: 59.26718pt x 59.84715pt.
-<img/camara_industrial.jpg, id=800, 803.0pt x 803.0pt>
+<img/camara_industrial.jpg, id=790, 803.0pt x 803.0pt>
 File: img/camara_industrial.jpg Graphic file (type jpg)
 <use img/camara_industrial.jpg>
-Package pdftex.def Info: img/camara_industrial.jpg  used on input line 962.
+Package pdftex.def Info: img/camara_industrial.jpg  used on input line 597.
 (pdftex.def)             Requested size: 59.26718pt x 59.26668pt.
-<img/camara_web.jpg, id=801, 426.99525pt x 395.076pt>
+<img/camara_web.jpg, id=791, 426.99525pt x 395.076pt>
 File: img/camara_web.jpg Graphic file (type jpg)
 <use img/camara_web.jpg>
-Package pdftex.def Info: img/camara_web.jpg  used on input line 962.
+Package pdftex.def Info: img/camara_web.jpg  used on input line 597.
 (pdftex.def)             Requested size: 59.26718pt x 54.83401pt.
-<img/detector_agujas.jpg, id=802, 314.3745pt x 215.00325pt>
+<img/detector_agujas.jpg, id=792, 314.3745pt x 215.00325pt>
 File: img/detector_agujas.jpg Graphic file (type jpg)
 <use img/detector_agujas.jpg>
-Package pdftex.def Info: img/detector_agujas.jpg  used on input line 965.
+Package pdftex.def Info: img/detector_agujas.jpg  used on input line 600.
 (pdftex.def)             Requested size: 59.26718pt x 40.5328pt.
-<img/detector_metales.png, id=803, 1180.41pt x 1481.535pt>
+<img/detector_metales.png, id=793, 1180.41pt x 1481.535pt>
 File: img/detector_metales.png Graphic file (type png)
 <use img/detector_metales.png>
-Package pdftex.def Info: img/detector_metales.png  used on input line 965.
+Package pdftex.def Info: img/detector_metales.png  used on input line 600.
 (pdftex.def)             Requested size: 59.26718pt x 74.37497pt.
 
-Overfull \vbox (34.31999pt too high) detected at line 968
+Overfull \vbox (34.31999pt too high) detected at line 603
  []
 
-<img/sensor_proximidad_capacitivo.jpg, id=804, 564.9105pt x 579.3645pt>
+<img/sensor_proximidad_capacitivo.jpg, id=794, 564.9105pt x 579.3645pt>
 File: img/sensor_proximidad_capacitivo.jpg Graphic file (type jpg)
 <use img/sensor_proximidad_capacitivo.jpg>
 Package pdftex.def Info: img/sensor_proximidad_capacitivo.jpg  used on input li
-ne 968.
+ne 603.
 (pdftex.def)             Requested size: 59.26718pt x 60.7776pt.
-<img/sensor_fotoelectrico.jpg, id=805, 798.985pt x 895.345pt>
+<img/sensor_fotoelectrico.jpg, id=795, 798.985pt x 895.345pt>
 File: img/sensor_fotoelectrico.jpg Graphic file (type jpg)
 <use img/sensor_fotoelectrico.jpg>
-Package pdftex.def Info: img/sensor_fotoelectrico.jpg  used on input line 968.
+Package pdftex.def Info: img/sensor_fotoelectrico.jpg  used on input line 603.
 (pdftex.def)             Requested size: 59.26718pt x 66.41023pt.
-<img/sensor_ultrasonido.jpg, id=806, 464.937pt x 246.9225pt>
+<img/sensor_ultrasonido.jpg, id=796, 464.937pt x 246.9225pt>
 File: img/sensor_ultrasonido.jpg Graphic file (type jpg)
 <use img/sensor_ultrasonido.jpg>
-Package pdftex.def Info: img/sensor_ultrasonido.jpg  used on input line 968.
+Package pdftex.def Info: img/sensor_ultrasonido.jpg  used on input line 603.
 (pdftex.def)             Requested size: 59.26718pt x 31.4756pt.
-[33 <./img/cables_terminal_crimpado.jpg> <./img/cable_motor.jpg> <./img/cable_u
+[30 <./img/cables_terminal_crimpado.jpg> <./img/cable_motor.jpg> <./img/cable_u
 sb_micro.jpg> <./img/cable_usb_usbB.jpg> <./img/camara_USB.jpg> <./img/camara_i
-ndustrial.jpg (PNG copy)> <./img/camara_web.jpg>] [34 <./img/detector_agujas.jp
+ndustrial.jpg (PNG copy)> <./img/camara_web.jpg>] [31 <./img/detector_agujas.jp
 g> <./img/detector_metales.png> <./img/sensor_proximidad_capacitivo.jpg> <./img
 /sensor_fotoelectrico.jpg> <./img/sensor_ultrasonido.jpg>]
-<img/sketch_CS.pdf, id=821, page=3, 844.15375pt x 598.235pt>
+<img/sketch_CS.pdf, id=811, page=3, 844.15375pt x 598.235pt>
 File: img/sketch_CS.pdf Graphic file (type pdf)
 <use img/sketch_CS.pdf, page 3>
-Package pdftex.def Info: img/sketch_CS.pdf , page3 used on input line 1007.
+Package pdftex.def Info: img/sketch_CS.pdf , page3 used on input line 642.
 (pdftex.def)             Requested size: 455.8843pt x 323.0786pt.
-<img/sketch_CS.pdf, id=823, page=2, 844.15375pt x 598.235pt>
+<img/sketch_CS.pdf, id=813, page=2, 844.15375pt x 598.235pt>
 File: img/sketch_CS.pdf Graphic file (type pdf)
 <use img/sketch_CS.pdf, page 2>
-Package pdftex.def Info: img/sketch_CS.pdf , page2 used on input line 1018.
+Package pdftex.def Info: img/sketch_CS.pdf , page2 used on input line 653.
 (pdftex.def)             Requested size: 455.8843pt x 323.0786pt.
- [35 <./img/sketch_CS.pdf, page is rotated 90 degrees>]
-<img/sketch_CS.pdf, id=831, page=1, 661.47125pt x 598.235pt>
+ [32 <./img/sketch_CS.pdf, page is rotated 90 degrees>]
+<img/sketch_CS.pdf, id=821, page=1, 661.47125pt x 598.235pt>
 File: img/sketch_CS.pdf Graphic file (type pdf)
 <use img/sketch_CS.pdf, page 1>
-Package pdftex.def Info: img/sketch_CS.pdf , page1 used on input line 1029.
+Package pdftex.def Info: img/sketch_CS.pdf , page1 used on input line 664.
 (pdftex.def)             Requested size: 455.8843pt x 412.2988pt.
- [36 <./img/sketch_CS.pdf, page is rotated 270 degrees>] [37 <./img/sketch_CS.p
+ [33 <./img/sketch_CS.pdf, page is rotated 270 degrees>] [34 <./img/sketch_CS.p
 df, page is rotated 90 degrees>]
-Overfull \hbox (17.77795pt too wide) in paragraph at lines 1065--1097
+Overfull \hbox (17.77795pt too wide) in paragraph at lines 700--732
  [][][] 
  []
 
 
-Overfull \hbox (21.1216pt too wide) in paragraph at lines 1103--1129
+Overfull \hbox (21.1216pt too wide) in paragraph at lines 738--764
  [][][] 
  []
 
-<img/comp_tecnico_economica.pdf, id=849, 677.53125pt x 480.79625pt>
+<img/comp_tecnico_economica.pdf, id=839, 677.53125pt x 480.79625pt>
 File: img/comp_tecnico_economica.pdf Graphic file (type pdf)
 <use img/comp_tecnico_economica.pdf>
-Package pdftex.def Info: img/comp_tecnico_economica.pdf  used on input line 113
-6.
+Package pdftex.def Info: img/comp_tecnico_economica.pdf  used on input line 771
+.
 (pdftex.def)             Requested size: 410.29308pt x 291.16507pt.
-[38] [39 <./img/comp_tecnico_economica.pdf>] (main.bbl [40
+[35]) (main.bbl [36 <./img/comp_tecnico_economica.pdf>] [37
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 9--15
-[]\OT1/ptm/m/n/11 Entwicklung tech-nis-cher pro-duk-te und sys-te-me - mo-dell 
-der pro-duk-tent-wic-
+Underfull \hbox (badness 10000) in paragraph at lines 102--107
+[]\OT1/ptm/m/n/11 TAIWAN, O.  Why oshi-ma gar-ment need-le de-tec-tor ma-chi-ne
+ is right
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--15
-\OT1/ptm/m/n/11 klung.  Tech-ni-cal Re-port Blatt 1, VDI-Gesellschaft Produkt- 
-und Pro-zess-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--15
-\OT1/ptm/m/n/11 ges-tal-tung, 11 2019.  URL [][]$https : / / www . vdi . de / e
-n / home / vdi-[]standards / details /
- []
-
-
-Underfull \hbox (badness 1052) in paragraph at lines 17--23
-[]\OT1/ptm/m/n/11 Entwicklung me-cha-tro-nis-cher und cyber-physischer sys-te-m
-e.  Tech-ni-cal re-port, VDI/VDE-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--23
-\OT1/ptm/m/n/11 vdi-[]standards / details / vdivde-[]2206-[]development-[]of-[]
-mechatronic-[]and-[]cyber-[]physical-[]systems$[][].
- []
-
-[41
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 98--103
-[]\OT1/ptm/m/n/11 RMG Ban-gla-desh.  Fi-nally ai in ma-nu-fac-tu-ring: Gar-ment
- mea-su-re-ment
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--103
-\OT1/ptm/m/n/11 ins-pec-tion in a flash, Ja-nuary 2021.  URL [][]$https : / / r
-mgbd . net / 2021 / 01 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--139
-[]\OT1/ptm/m/n/11 OSHIMA TAI-WAN.  Why oshi-ma gar-ment need-le de-tec-tor ma-c
-hi-ne is right
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--139
+Underfull \hbox (badness 10000) in paragraph at lines 102--107
 \OT1/ptm/m/n/11 one for you?  [][]$https : / / www . oshima . com . tw / en / p
 roduct / needle-[]detection-[]weighing /
  []
 
-
-Underfull \hbox (badness 1264) in paragraph at lines 155--160
-\OT1/ptm/m/n/11 Pa-ten-te, Mes de pu-bli-ca-ci[]on A[]no de pu-bli-ca-ci[]on.  
-URL [][]$https : / / patents . google . com / patent /
- []
-
-[42]))
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.119 \end{document}
-                     [1] (main.aux (partes/portada.aux)
+) [38] (main.aux (Capítulos/portada.aux)
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 59906A919AF37D8AD9988C20967F9C83;4740.
+(rerunfilecheck)             Checksum: 191E876BCBD5CD113C25247AF57BB388;4538.
  ) 
 Here is how much of TeX's memory you used:
- 28758 strings out of 475385
- 537920 string characters out of 2786715
- 1017387 words of memory out of 3000000
- 49266 multiletter control sequences out of 15000+600000
- 493567 words of font info for 78 fonts, out of 8000000 for 9000
+ 28754 strings out of 475385
+ 538398 string characters out of 2786715
+ 1017182 words of memory out of 3000000
+ 49262 multiletter control sequences out of 15000+600000
+ 492553 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,13n,127p,1225b,627s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 113i,13n,127p,1244b,607s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
 /fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX/fonts/
 type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino
@@ -1976,9 +1939,9 @@ type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino
 rogram Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/f
 onts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on main.pdf (44 pages, 20132729 bytes).
+Output written on main.pdf (42 pages, 20123678 bytes).
 PDF statistics:
- 974 PDF objects out of 1000 (max. 8388607)
- 167 named destinations out of 1000 (max. 500000)
- 638 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 931 PDF objects out of 1000 (max. 8388607)
+ 161 named destinations out of 1000 (max. 500000)
+ 630 words of extra memory for PDF output out of 10000 (max. 10000000)
 

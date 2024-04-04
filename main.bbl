@@ -1,170 +1,132 @@
-\begin{thebibliography}{21}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{}
 
-\bibitem[VDI(2019)]{VDI2221_2019}
-Entwicklung technischer produkte und systeme - modell der produktentwicklung.
+\bibitem[VDI, 2019]{VDI2221_2019}
+ (2019).
+\newblock Entwicklung technischer produkte und systeme - modell der
+  produktentwicklung.
 \newblock Technical Report Blatt 1, VDI-Gesellschaft Produkt- und
-  Prozessgestaltung, 11 2019.
-\newblock URL
-  \url{https://www.vdi.de/en/home/vdi-standards/details/vdi-2221-blatt-1-design-of-technical-products-and-systems-model-of-product-design}.
+  Prozessgestaltung.
 \newblock Verfügbar in Deutsch und Englisch.
 
-\bibitem[VDI(2021)]{VDIVDE2206_2021}
-Entwicklung mechatronischer und cyber-physischer systeme.
+\bibitem[VDI, 2021]{VDIVDE2206_2021}
+ (2021).
+\newblock Entwicklung mechatronischer und cyber-physischer systeme.
 \newblock Technical report, VDI/VDE-Gesellschaft Mess- und
-  Automatisierungstechnik, 11 2021.
-\newblock URL
-  \url{https://www.vdi.de/en/home/vdi-standards/details/vdivde-2206-development-of-mechatronic-and-cyber-physical-systems}.
+  Automatisierungstechnik.
 \newblock Verfügbar in Deutsch und Englisch.
 
-\bibitem[Agarwal(2020)]{us20200178632a1}
-Dhruv Agarwal.
+\bibitem[Agarwal, 2020]{us20200178632a1}
+Agarwal, D. (2020).
 \newblock Automated control and inspection system for manufacture and
-  measurement of apparel, 06 2020.
-\newblock URL \url{https://patents.google.com/patent/US20200178632A1/en}.
+  measurement of apparel.
 \newblock Número de Patente: US20200178632A1.
 
-\bibitem[Bonilla~Pastor(2015)]{BonillaPastor2015}
-Elsie Bonilla~Pastor.
+\bibitem[Bonilla~Pastor, 2015]{BonillaPastor2015}
+Bonilla~Pastor, E. (2015).
 \newblock La gestión de la calidad y su relación con los costos de desechos y
   desperdicios en las mypes de la confección textil.
-\newblock Universidad de Lima, 2015.
-\newblock URL \url{https://www.ulima.edu.pe}.
+\newblock Universidad de Lima.
 \newblock Recibido: 29 de octubre de 2014 / Aprobado: 1 de julio de 2015.
 
-\bibitem[{Cámara de Comercio de Lima}(2022)]{LaCamara2022}
-{Cámara de Comercio de Lima}.
-\newblock Comportamiento del sector textil y confecciones en el 2022, 2022.
-\newblock URL
-  \url{https://lacamara.pe/comportamiento-del-sector-textil-y-confecciones-en-el-2022/}.
+\bibitem[{Cámara de Comercio de Lima}, 2022]{LaCamara2022}
+{Cámara de Comercio de Lima} (2022).
+\newblock Comportamiento del sector textil y confecciones en el 2022.
 
-\bibitem[Islam et~al.(2006)Islam, Akhter, Mursalin, and
-  Amin]{Islam2006ASuitable}
-Md.~Atiqul Islam, Shamim Akhter, Tamnun~E. Mursalin, and M.~Ashraful Amin.
+\bibitem[Islam et~al., 2006]{Islam2006ASuitable}
+Islam, M.~A., Akhter, S., Mursalin, T.~E., and Amin, M.~A. (2006).
 \newblock A suitable neural network to detect textile defects.
-\newblock In \emph{Lecture Notes in Computer Science}. Springer, October 2006.
-\newblock \doi{10.1007/11893257_48}.
+\newblock In {\em Lecture Notes in Computer Science}. Springer.
 \newblock Conference Paper.
 
-\bibitem[Kujawińska and Vogt(2015)]{KujawinskaVogt2015}
-Agnieszka Kujawińska and Katarzyna Vogt.
+\bibitem[Kujawińska and Vogt, 2015]{KujawinskaVogt2015}
+Kujawińska, A. and Vogt, K. (2015).
 \newblock Human factors in visual quality control.
-\newblock \emph{Management and Production Engineering Review}, 6\penalty0
-  (2):\penalty0 25--31, 2015.
-\newblock \doi{10.1515/mper-2015-0013}.
-\newblock URL \url{https://www.researchgate.net/publication/279248156}.
+\newblock {\em Management and Production Engineering Review}, 6(2):25--31.
 
-\bibitem[Li et~al.(2017)Li, Liu, Xu, Feng, Xiao, and
-  Zhang]{Li2017AutomaticMeasurement}
-Chunxiao Li, Huimin Liu, Ying Xu, Meiling Feng, Yi~Xiao, and Dongliang Zhang.
+\bibitem[Li et~al., 2017]{Li2017AutomaticMeasurement}
+Li, C., Liu, H., Xu, Y., Feng, M., Xiao, Y., and Zhang, D. (2017).
 \newblock Automatic measurement of garment sizes using image recognition.
-\newblock In \emph{Proceedings of the International Conference on Graphics and
-  Signal Processing (ICGSP '17)}, Singapore, Singapore, 2017. ACM.
-\newblock \doi{10.1145/3121360.3121382}.
+\newblock In {\em Proceedings of the International Conference on Graphics and
+  Signal Processing (ICGSP '17)}, Singapore, Singapore. ACM.
 \newblock ISBN 978-1-4503-5239-0/17/06.
 
-\bibitem[Lin(1994)]{US5530652A}
-Gene F. CroyleWei-Chin Lin.
-\newblock Automatic garment inspection and measurement system, 06 1994.
-\newblock URL \url{https://patents.google.com/patent/US5530652A/en}.
+\bibitem[Lin, 1994]{US5530652A}
+Lin, G. F. C.-C. (1994).
+\newblock Automatic garment inspection and measurement system.
 \newblock Número de Patente: US20200178632A1.
 
-\bibitem[Lin et~al.(2022)Lin, Lin, and Li]{CN218147467U}
-Xuguang Lin, Sen Lin, and Yusheng Li.
-\newblock {Intelligent needle inspection machine}, 12 2022.
+\bibitem[Lin et~al., 2022]{CN218147467U}
+Lin, X., Lin, S., and Li, Y. (2022).
+\newblock {Intelligent needle inspection machine}.
 \newblock Patent CN218147467U.
 
-\bibitem[Moreno et~al.(2017)Moreno, Aguila, Partida, Martínez, Morales, and
-  Tejeida]{Moreno2017}
-J~J Moreno, A~Aguila, E~Partida, C~L Martínez, O~Morales, and R~Tejeida.
+\bibitem[Moreno et~al., 2017]{Moreno2017}
+Moreno, J.~J., Aguila, A., Partida, E., Martínez, C.~L., Morales, O., and
+  Tejeida, R. (2017).
 \newblock System of error detection in the manufacture of garments using
   artificial vision.
-\newblock In \emph{IOP Conference Series: Materials Science and Engineering},
-  volume 272, page 012014. IOP Publishing, 2017.
-\newblock \doi{10.1088/1757-899X/272/1/012014}.
+\newblock In {\em IOP Conference Series: Materials Science and Engineering},
+  volume 272, page 012014. IOP Publishing.
 
-\bibitem[{QIMA}(2024)]{qimaProcedimientosInspeccin}
-{QIMA}.
+\bibitem[{QIMA}, 2024]{qimaProcedimientosInspeccin}
+{QIMA} (2024).
 \newblock Procedimientos de inspección de calidad que toda marca de ropa debe
-  conocer, 2024.
-\newblock URL
-  \url{https://blog.qima.es/inspection/garment-quality-inspection-procedures}.
+  conocer.
 
-\bibitem[{RMG Bangladesh}(2021)]{RMG2021AIGarment}
-{RMG Bangladesh}.
+\bibitem[{RMG Bangladesh}, 2021]{RMG2021AIGarment}
+{RMG Bangladesh} (2021).
 \newblock Finally ai in manufacturing: Garment measurement inspection in a
-  flash, January 2021.
-\newblock URL
-  \url{https://rmgbd.net/2021/01/finally-ai-in-manufacturing-garment-measurement-inspection-in-a-flash/}.
+  flash.
 
-\bibitem[Rocha et~al.(2023)Rocha, Soares, Oliveira, and Carvalho]{Rocha2023}
-Daniel Rocha, Filomena Soares, Eva Oliveira, and Vítor Carvalho.
+\bibitem[Rocha et~al., 2023]{Rocha2023}
+Rocha, D., Soares, F., Oliveira, E., and Carvalho, V. (2023).
 \newblock Blind people: Clothing category classification and stain detection
   using transfer learning.
-\newblock \emph{Applied Sciences}, 13\penalty0 (3):\penalty0 1925, February
-  2023.
-\newblock ISSN 2076-3417.
-\newblock \doi{10.3390/app13031925}.
-\newblock URL \url{http://dx.doi.org/10.3390/app13031925}.
+\newblock {\em Applied Sciences}, 13(3):1925.
 
-\bibitem[Sanchez-Romero and Llerena-Izquierdo(2023)]{SanchezRomero2023}
-Jonathan Sanchez-Romero and Joe Llerena-Izquierdo.
+\bibitem[Sanchez-Romero and Llerena-Izquierdo, 2023]{SanchezRomero2023}
+Sanchez-Romero, J. and Llerena-Izquierdo, J. (2023).
 \newblock Revisión de la literatura sobre el uso del aprendizaje profundo
   enfocado en sistemas de inspección ópticos automatizados para la detección
   de defectos superficiales en el sector de la manufactura.
-\newblock \emph{Revista InGenio}, 6\penalty0 (2):\penalty0 1–19, July 2023.
-\newblock ISSN 2697-3642.
-\newblock \doi{10.18779/ingenio.v6i2.680}.
-\newblock URL \url{http://dx.doi.org/10.18779/ingenio.v6i2.680}.
+\newblock {\em Revista InGenio}, 6(2):1–19.
 
-\bibitem[TAIWAN({\natexlab{a}})]{oshimaEfficientHandheld}
-OSHIMA TAIWAN.
+\bibitem[TAIWAN, a]{oshimaEfficientHandheld}
+TAIWAN, O.
 \newblock Efficient handheld metal detection.
 \newblock
-  \url{https://www.oshima.com.tw/en/product/needle-detection-weighing/handheld-needle-detector-on-30},
-  {\natexlab{a}}.
+  \url{https://www.oshima.com.tw/en/product/needle-detection-weighing/handheld-needle-detector-on-30}.
 \newblock [Accessed 08-03-2024].
 
-\bibitem[TAIWAN({\natexlab{b}})]{oshimaOSHIMAGarment}
-OSHIMA TAIWAN.
+\bibitem[TAIWAN, b]{oshimaOSHIMAGarment}
+TAIWAN, O.
 \newblock Why oshima garment needle detector machine is right one for you?
 \newblock
-  \url{https://www.oshima.com.tw/en/product/needle-detection-weighing/digital-conveyor-needle-detectors-on-688cd6s-688cdd6s},
-  {\natexlab{b}}.
+  \url{https://www.oshima.com.tw/en/product/needle-detection-weighing/digital-conveyor-needle-detectors-on-688cd6s-688cdd6s}.
 \newblock [Accessed 08-03-2024].
 
-\bibitem[{Tetra Inspection}(2024)]{TetraInspection2024}
-{Tetra Inspection}.
-\newblock Quality control in the clothing industry: A practical guide, 2024.
-\newblock URL \url{https://tetrainspection.com/quality-control-clothing/}.
+\bibitem[{Tetra Inspection}, 2024]{TetraInspection2024}
+{Tetra Inspection} (2024).
+\newblock Quality control in the clothing industry: A practical guide.
 \newblock Accessed: date.
 
-\bibitem[{Textile Learner}(2023)]{TextileLearner}
-{Textile Learner}.
-\newblock Application of ai in quality control in textile and apparel industry,
-  2023.
-\newblock URL
-  \url{https://textilelearner.net/application-of-ai-in-quality-control-in-textile-apparel-industry/}.
+\bibitem[{Textile Learner}, 2023]{TextileLearner}
+{Textile Learner} (2023).
+\newblock Application of ai in quality control in textile and apparel industry.
 \newblock Último acceso el 9 de marzo de 2024.
 
-\bibitem[Tommy~VERMINCK(Año de publicación)]{EP4095520A1}
-Zander~MACHARIS Tommy~VERMINCK.
+\bibitem[Tommy~VERMINCK, ión]{EP4095520A1}
+Tommy~VERMINCK, Z.~M. (Año de publicación).
 \newblock A system for quality control of a piece of clothing.
-\newblock Patente, Mes de publicación Año de publicación.
-\newblock URL \url{https://patents.google.com/patent/EP4095520A1/en}.
+\newblock Patente.
 \newblock Número de patente: EP4095520A1.
 
-\bibitem[{VDI-Gesellschaft Produkt- und Prozessgestaltung}(Various
-  years)]{VDI2225_series}
-{VDI-Gesellschaft Produkt- und Prozessgestaltung}.
+\bibitem[{VDI-Gesellschaft Produkt- und Prozessgestaltung},
+  ears]{VDI2225_series}
+{VDI-Gesellschaft Produkt- und Prozessgestaltung} (Various years).
 \newblock Vdi 2225 series - design engineering methodics: Engineering design at
   optimum cost.
-\newblock Verband Deutscher Ingenieure, Various years.
-\newblock URL \url{https://www.vdi.de/en/home/vdi-standards}.
+\newblock Verband Deutscher Ingenieure.
 \newblock The series includes multiple parts focusing on simplified calculation
   of costs, tables for engineering design at optimum cost, and valuation of
   costs, available in German.

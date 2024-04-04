@@ -1,10 +1,10 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-Reallocating 'name_of_file' (item size: 1) to 19 items.
-A level-1 auxiliary file: partes/portada.aux
-Reallocating 'name_of_file' (item size: 1) to 9 items.
-The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Capítulos/portada.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 8 items.
 Database file #1: library.bib
 Warning--entry type for "qimaProcedimientosInspeccin" isn't style-file defined
@@ -26,44 +26,44 @@ Warning--empty author in VDIVDE2206_2021
 Warning--empty year in oshimaEfficientHandheld
 Warning--empty year in oshimaOSHIMAGarment
 You've used 21 entries,
-            2773 wiz_defined-function locations,
-            756 strings with 10318 characters,
-and the built_in function-call counts, 8073 in all, are:
-= -- 751
-> -- 384
+            1935 wiz_defined-function locations,
+            608 strings with 8007 characters,
+and the built_in function-call counts, 6470 in all, are:
+= -- 657
+> -- 240
 < -- 17
-+ -- 139
-- -- 117
-* -- 575
-:= -- 1234
-add.period$ -- 93
++ -- 83
+- -- 78
+* -- 474
+:= -- 1200
+add.period$ -- 72
 call.type$ -- 21
-change.case$ -- 103
+change.case$ -- 145
 chr.to.int$ -- 20
-cite$ -- 50
-duplicate$ -- 373
-empty$ -- 713
-format.name$ -- 140
-if$ -- 1723
+cite$ -- 29
+duplicate$ -- 262
+empty$ -- 416
+format.name$ -- 101
+if$ -- 1233
 int.to.chr$ -- 2
-int.to.str$ -- 1
+int.to.str$ -- 0
 missing$ -- 6
-newline$ -- 140
-num.names$ -- 76
-pop$ -- 248
+newline$ -- 114
+num.names$ -- 57
+pop$ -- 106
 preamble$ -- 1
-purify$ -- 81
+purify$ -- 144
 quote$ -- 0
-skip$ -- 286
+skip$ -- 201
 stack$ -- 0
-substring$ -- 105
-swap$ -- 48
+substring$ -- 319
+swap$ -- 21
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 231
+type$ -- 126
 warning$ -- 6
-while$ -- 62
+while$ -- 43
 width$ -- 0
-write$ -- 324
+write$ -- 273
 (There was 1 error message)

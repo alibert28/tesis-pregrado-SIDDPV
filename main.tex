@@ -87,10 +87,10 @@
 \begin{document}
 
 % PORTADA
-\include{partes/portada}
+\include{Capítulos/portada}
 
 % RESUMEN
-\input{partes/abstract}
+\input{Capítulos/abstract}
 \clearpage
 
 % AGRADECIMIENTOS
@@ -110,10 +110,26 @@
 \clearpage
 
 %CONTENIDO
-\input{contenido}
+%\input{contenido}
 \pagestyle{empty}
 \pagenumbering{gobble}
 \pagestyle{plain}
 \pagenumbering{arabic}
+
+%CAPÍTULO 1 - INTRODUCCIÓN
+\input{Capítulos/introduction}
+
+%CAPÍTULO 2 - ESTADO DEL ARTE
+\input{Capítulos/state_of_art}
+
+%CAPÍTULO 3 - DISEÑO CONCEPTUAL
+\input{Capítulos/conceptual_design}
+
+%CAPÍTULO X - CONCLUSIONES Y RECOMENDACIONES
+%\input{Capítulos/conclusions_recommendations}
+
+%BIBLIOGRAFÍA
+\bibliographystyle{plain}
+\bibliography{library}
 
 \end{document}
